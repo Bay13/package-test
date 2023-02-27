@@ -1,0 +1,10 @@
+{
+    "name": "user/package-test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "User\\PackageTest\\": "src/"
+        }
+    },
+    "require": {}
+}
